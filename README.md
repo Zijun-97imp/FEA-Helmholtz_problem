@@ -1,5 +1,6 @@
 # FEA-Helmholtz_problem
 The individual project for FEA method of Helmholtz problem.
+
 %-------------------------------------------%
 %README.m
 %
@@ -12,6 +13,7 @@ The individual project for FEA method of Helmholtz problem.
 %01.05.2020
 %
 %-------------------------------------------%
+
 
 MATLAB base running file
 
