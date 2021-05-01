@@ -1,18 +1,18 @@
 # FEA-Helmholtz_problem
 The individual project for FEA method of Helmholtz problem.
 
-###%-------------------------------------------%
-###%README.m
-###%
-###%this is the code running folder, including
-###%the figure output file 'Figure'
-###%and the code source file 'Code'. 
-###%
-###%
-###%Zijun Fang
-###%01.05.2020
-###%
-###%-------------------------------------------%
+###-------------------------------------------
+###README.m
+###
+###this is the code running folder, including
+###the figure output file 'Figure'
+###and the code source file 'Code'. 
+###
+###
+###Zijun Fang
+###01.05.2020
+###
+###-------------------------------------------
 
 
 ## MATLAB base running file
